@@ -49,7 +49,7 @@ In this assignment, you will be learning more about `git` and `GitHub` by workin
       The main branch is the default, primary branch in a Git repository where the production-ready code typically resides. It is the branch that most collaborators pull from and push changes to after completing work in feature branches.
       
     > h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
-     No, you should avoid pushing changes directly to the main branch unless it's a very small project or the change is minor. It's better to create a new branch for each feature or bug fix, make changes in that branch, and then open a pull request to merge those changes into the main branch after they’ve been reviewed. This ensures better code quality and reduces the risk of introducing errors.
+     No, you should avoid pushing changes directly to the main branch unless it's a very small project or the change is minor. It's better to create a new branch for each feature or bug fix, make changes in that branch, and then open a pull request to merge those changes into the main branch after they’ve been reviewed.This ensures better code quality and reduces the risk of introducing errors.
 
 Feel free to at any point (recommended after answering every 2 questions) to stage, commit and push your work to GitHub. It is a great way to practice using `git`!
 
